@@ -1,5 +1,5 @@
 # Tincan
-Tincan is a tiny  interpreter/compiler  for the Tin-n-Can Programming Langugage.
+Tincan is a tiny  interpreter/compiler  for the Tin-n-Can Esoteric Programming Langugage.
 
 it has 7 Instructions:
 
