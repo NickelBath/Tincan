@@ -4,8 +4,8 @@ Tincan is a tiny  interpreter/compiler  for the Tin-n-Can Programming Langugage.
 it has 7 Instructions:
 
 the pointer starts at 0
-+ = Adds 1 to the pointer
-- = Subtracts 1 to the pointer
++ = Adds 1 to the pointer \n
+- = Subtracts 1 to the pointer \n
 $ = Multiplies the pointer by 2
 / = Divides the pointer by 2
 : = Prints the pointer
